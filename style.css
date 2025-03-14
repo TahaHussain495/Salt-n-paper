@@ -1,0 +1,236 @@
+body {
+    background-color: #212529;
+    color: white;
+}
+.logo {
+       font-size: 20px;
+       font-weight: 500px;
+       text-align: left;
+}
+
+.navbar {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+li {
+    display: inline-block;
+    margin-right: 25px;
+}
+li a{
+    color: white;
+    font-size: 20px;
+    font-weight: 100px;
+}
+*{
+    text-decoration: none;
+}
+button {
+    background-color: black;
+    margin-left: 20px;
+    border-radius: 30px;
+    padding: 10px;
+    font-weight: 200px;
+    font-size: bold;
+    color: white;
+    width: 150px;
+    height: 40px;
+}
+button a {
+    color: white;
+    font-size: 15px;
+    
+}
+
+#image {
+    font-size: 100px;
+}
+#firstpara {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#mainhead {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+.text {
+    text-align: center;
+    border-color:#fffff;
+    
+}
+.photos {
+    text-align: center;
+    padding: 0px;
+    margin-right: 10px;
+    justify-content: center;
+    
+}
+.main {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+#light {
+    font-size: 35px;
+    text-align: center;
+    line-height: 10%;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif
+}
+
+
+#bold {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 20%;
+    text-align: center;
+    
+}
+#element {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#box {
+    height: 110px;
+    width: 190px;
+    background-color: white;
+}
+#green {
+    height: 110px;
+    width: 190px;
+    background-color: white;
+}
+#red {
+    height: 110px;
+    width: 190px;
+    background-color: white;
+}
+.right {
+    text-align: right;
+    margin: 30px;
+}
+#left {
+    text-align: left;
+}
+.heading7 {
+    text-align: left;
+    line-height: 150%;
+    float: left;
+}
+#yellow {
+    color: red;
+    font-weight: lighter;
+}
+   
+#city {
+    color: red;
+    font-weight: lighter;
+}
+#country {
+    color: red;
+    font-weight: lighter;
+}
+
+.bigger {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    line-height: 20%;
+}
+#normal {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30%;    
+}
+#cross {
+    margin: 50px;
+    padding-bottom: 50%;
+    font-stretch: wider;
+
+}
+#correct {
+    margin: 50px;
+    padding-bottom: 50%;
+    font-stretch: wider;
+}
+#sum {
+    height: 250px;
+    margin: 30px;
+}
+#minus {
+    margin: 30px;
+
+}
+#divide {
+    margin: 30px;
+
+}
+#lorem {
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 100%;
+}
+#nic {
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+.back {
+    text-align: left;
+    margin: 50px;
+    padding-bottom: 200px;
+    line-height: 30%;
+    
+    
+}
+#cute {
+    font-weight: lighter;
+    color: red;
+    font-size: 20px;
+    margin: 70px;
+    
+}
+#new {
+    font-weight: lighter;
+    color: red;
+    font-size: 20px;
+    margin: 70px;
+
+}
+#brands {
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 100%;
+}
+#clothes {
+    font-size: 20px;
+    line-height: 30px;
+
+}
+.native {
+    padding-bottom: 30%;
+    margin: 10%;
+    margin-right: 50%;
+    
+}
+
+.heading 10 {
+    float: left;
+
+}
+
+    
+
+
+
+
+    
+
+    
